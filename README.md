@@ -54,3 +54,21 @@ Predict
 ```bash
 python src/predict.py
 ```
+
+## Project Workflow
+
+```
+Dataset
+   ↓
+Preprocessing
+   ↓
+Train/Test Split
+   ↓
+Model Training
+   ↓
+Evaluation
+   ↓
+Save Model
+   ↓
+Prediction
+```
