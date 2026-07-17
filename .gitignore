@@ -1,0 +1,5 @@
+venv/
+venv310/
+__psycache__/
+*.pyc
+.ipynb_checkpoints/
