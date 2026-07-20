@@ -71,4 +71,46 @@ Evaluation
 Save Model
    ↓
 Prediction
+
 ```
+
+## API Documentation
+
+Run API
+
+```bash
+uvicorn src.app:app --reload
+```
+
+Open Swagger
+
+```
+http://127.0.0.1:8000/docs
+```
+
+Example Request
+
+```json
+{
+  "age": 63,
+  "trestbps": 145,
+  "chol": 233,
+  "thalch": 150,
+  "oldpeak": 2.3,
+  "sex_Male": 1,
+  "ca": 0
+}
+```
+
+Example Response
+
+```json
+{
+  "prediction": 1,
+  "result": "Heart Disease"
+}
+```
+
+## Swagger API
+
+![Swagger](images/swagger.png)
