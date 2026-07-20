@@ -112,5 +112,4 @@ Example Response
 ```
 
 ## Swagger API
-
-![Swagger](images/swagger.png)
+![App Screenshot](images/app.png)
