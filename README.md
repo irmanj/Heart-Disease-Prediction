@@ -111,6 +111,9 @@ Example Response
 }
 ```
 
+## Swagger API
+![Swagger](/images/swagger.png.png)
+
 ## Disclaimer
 
 This project is for educational purposes only and should not be used as medical advice or clinical diagnosis.
@@ -118,6 +121,3 @@ This project is for educational purposes only and should not be used as medical 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![FastAPI](https://img.shields.io/badge/FastAPI-API-green)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-ML-orange)
-
-## Swagger API
-![Swagger](/images/swagger.png.png)
